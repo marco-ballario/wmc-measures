@@ -985,6 +985,7 @@
                     "conditions_max": 5.0
                 },
                 "wmc": {
+                    "wmc": 25.0,
                     "total": 25.0
                 },
                 "npm": {
@@ -1114,6 +1115,7 @@
             "conditions_max": 5.0
         },
         "wmc": {
+            "wmc": 0.0,
             "total": 25.0
         },
         "npm": {
