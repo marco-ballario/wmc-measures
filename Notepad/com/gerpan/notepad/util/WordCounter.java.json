@@ -985,8 +985,6 @@
                     "conditions_max": 5.0
                 },
                 "wmc": {
-                    "class": 25.0,
-                    "interface": 0.0,
                     "classes": 25.0,
                     "interfaces": 0.0,
                     "total": 25.0
@@ -1118,8 +1116,6 @@
             "conditions_max": 5.0
         },
         "wmc": {
-            "class": 0.0,
-            "interface": 0.0,
             "classes": 25.0,
             "interfaces": 0.0,
             "total": 25.0
